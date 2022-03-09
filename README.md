@@ -2,7 +2,7 @@
 
 A very basic crud app for trying to understand how the operation takes place and understanding dependencies.
 Also used SQL for DB and Postman for API.
-Till now have added only GET (http://localhost:8082/user/all) and POST (http://localhost:8082/user/add), will add all the functionality
+Till now have added only GET (http://localhost:8082/user/all) and POST (http://localhost:8082/user/add), will add all the functionality.
 
 Video for help: https://www.youtube.com/watch?v=qv2PINqRKdY
 
